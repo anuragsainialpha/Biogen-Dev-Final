@@ -1,0 +1,12 @@
+{
+  "db": "mongodb+srv://sahilsinghdhadwal:Sahil@123@cluster0-xzigw.mongodb.net/dengine-biogen-test",
+  "devInstanceURL": "https://otmgtm-a557340-dev1.otm.us2.oraclecloud.com",
+  "testInstanceURL": "http://otmgtm643.accelalpha.com:7779",
+  "prodInstanceURL": "https://otmgtm-a557340.otm.us2.oraclecloud.com",
+  "gtmVersion": 6.4,
+  "currentInstance": "dev",
+  "subsciption": "Item, party, transaction",
+  "isClient": true,
+  "schemaURI": "",
+  "clientToken": ""
+}
